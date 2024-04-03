@@ -11,7 +11,18 @@ export const site: SiteConfig = {
     avatar: '/assets/maskable@512.png',
     name: 'Eyad Hasan',
     status: '',
-    bio: 'Powerlifting DevOps Engineer.'
+    bio: 'Powerlifting DevOps Engineer.',
+    metadata: [
+      {
+        icon: 'i-mdi-github',
+        link: 'https://github.com/iameyad'
+      },
+      {
+        icon: 'i-ic-twotone-rss-feed',
+        link: '/atom.xml',
+        rel: 'rss'
+      }
+    ]
   },
   themeColor: '#3D4451'
 }

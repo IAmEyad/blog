@@ -3,14 +3,14 @@ import { site } from '$lib/config/site'
 
 export const favicon: Icon = {
   src: site.protocol + site.domain + '/favicon.png',
-  sizes: '48x48',
+  sizes: '32x32',
   type: 'image/png'
 }
 
 export const any: { [key: number]: Icon } = {
   180: {
     src: site.protocol + site.domain + '/assets/any@180.png',
-    sizes: '180x180',
+    sizes: '128x128',
     type: 'image/png'
   },
   192: {

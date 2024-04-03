@@ -6,6 +6,14 @@ Personal blog built using [Urara](https://github.com/importantimport/urara/).  C
 ## Other
 Blog might go down because I accidently break something :)
 
+Personal blog built using [Urara](https://github.com/importantimport/urara/).  Check it out!
+
+## Deployment
+- Deployed using [Vecel](https://vercel.com)
+
+## Other
+Blog might go down because I accidently break something :)
+
 
 ## 📝 License
 
