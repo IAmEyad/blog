@@ -16,7 +16,7 @@ export type Project = {
       description:
         "Incomplete shoot-em up where you play a Big Milk Man.",
       feature: 'Godot',
-      img:'',
+      img:'https://godotengine.org/assets/share-image.webp',
       link: 'https://github.com/IAmEyad/milk_man'
     },
   ]
