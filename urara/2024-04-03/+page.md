@@ -27,4 +27,4 @@ So now I'm all setup, I've been working on modifying the page to better suite my
 - About Me
 
 There isn't anything there right now, I still have to do some writing up for some old projects I've worked on/projects I'm currently working on.  Same with the About Me.  
-But I intend to start filling things in on a daily basis, at-least there be a daily post talking about something interesting in tech, braindumping about some topic I've been reading up about, or just some updates about a new language/tech I'm learning.  Oh and note that the dates go YYYY-MM-DD, I know that's confusing for us Americans.
+But I intend to start filling things in on a daily basis, at-least there be a daily post talking about something interesting in tech, braindumping about some topic I've been reading up about, or just some updates about a new language/tech I'm learning.
