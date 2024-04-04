@@ -1,9 +1,9 @@
 ---
 title: 'Swapping blog platforms'
 alt: 'First'
-created: 2024-04-03
-updated: 2024-04-03
-published: 2024-04-03
+created: 04-03-2024
+updated: 04-03-2024
+published: 04-03-2024
 tags:
   - 'Blog'
   - 'Rambling'
