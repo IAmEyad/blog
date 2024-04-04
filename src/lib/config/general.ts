@@ -82,10 +82,11 @@ export const footer: FooterConfig = {
 export const date: DateConfig = {
   locales: 'en-US',
   options: {
-    year: '4-digit',
+    year: 'numeric',
     weekday: 'long',
     month: 'short',
-    day: 'numeric'
+    day: 'numeric',
+    timeZone: 'America/New_York'
   }
 }
 
