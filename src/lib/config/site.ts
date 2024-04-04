@@ -14,11 +14,11 @@ export const site: SiteConfig = {
     bio: 'Powerlifting DevOps Engineer.',
     metadata: [
       {
-        icon: 'i-mdi-github',
+        icon: 'i-heroicons-solid-code-bracket-square',
         link: 'https://github.com/iameyad'
       },
       {
-        icon: 'i-ic-twotone-rss-feed',
+        icon: 'i-heroicons-solid-rss',
         link: '/atom.xml',
         rel: 'rss'
       }
