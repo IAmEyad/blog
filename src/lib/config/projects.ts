@@ -10,23 +10,13 @@ export type Project = {
   
   export const projects: Project[] = [
     {
-      id: 'urara',
-      name: 'Urara',
-      tags: ['Svelte', 'TypeScript'],
+      id: 'big-milk-man',
+      name: 'Big Milk Man',
+      tags: ['GameDev', 'Godot'],
       description:
-        "🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. [δ](Delta)",
-      feature: 'Svelte',
-      img: 'https://github.com/importantimport/urara/raw/main/urara/hello-world/urara.webp',
-      link: 'https://github.com/importantimport/urara'
+        "Incomplete shoot-em up where you play a Big Milk Man.",
+      feature: 'Godot',
+      img:'',
+      link: 'https://github.com/IAmEyad/milk_man'
     },
-    {
-      id: 'urara-docs',
-      name: 'Urara Docs',
-      tags: ['TypeScript'],
-      feature: 'TypeScript',
-      description:
-        '🌸 Documentation for Urara',
-      img: 'https://github.com/importantimport/urara/raw/main/urara/hello-world/urara.webp',
-      link: 'https://github.com/importantimport/urara-docs'
-    }
   ]
